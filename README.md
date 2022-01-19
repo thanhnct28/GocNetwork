@@ -1,7 +1,7 @@
 # Khóa Luận Tốt Nghiệp
-Tên: Nguyễn Chí Tấn Thành
-Đề Tài: Xây dựng website hỗ trợ học trực tuyến môn Quản trị mạng, áp dụng cho sinh viên hệ cao đẳng chuyên ngành Công nghệ thông tin
-Link WebSite: http://gocnetwork.somee.com/
+- Tên: Nguyễn Chí Tấn Thành
+- Đề Tài: Xây dựng website hỗ trợ học trực tuyến môn Quản trị mạng, áp dụng cho sinh viên hệ cao đẳng chuyên ngành Công nghệ thông tin
+- Link WebSite: http://gocnetwork.somee.com/
 
 # Kỹ năng thực hiện:
 # Code giao diện
